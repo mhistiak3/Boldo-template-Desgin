@@ -1,2 +1,2 @@
 # Boldo Template Design
-[Home Page](./assets./Boldo Home.png)
+[Home Page](https://raw.githubusercontent.com/mhistiak3/Boldo-template-Desgin/master/assets/Boldo%20Home.png)
