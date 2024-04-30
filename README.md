@@ -1,2 +1,2 @@
 # Boldo Template Design
-[a novel](./assets./Boldo Home.png)
+[Home Page](./assets./Boldo Home.png)
